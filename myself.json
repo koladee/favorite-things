@@ -1,0 +1,31 @@
+{
+  "firstname": "Kolade",
+  "middlename": "Emmanuel",
+  "lastname": "Bakare",
+  "dob": "1994-08-29",
+  "nationality": "Nigerian",
+  "proficiencies": [
+    { "0": "Python",
+      "1": "Flask",
+      "2": "Django",
+      "3": "VeuJS",
+      "4": "NodeJS",
+      "5": "ReactJs",
+      "6": "Jquery",
+      "7": "React Native",
+      "8": "Bootstrap",
+      "9": "HTML5",
+      "10": "CSS"
+    }
+  ],
+  "level_of_education": "First Degree (B.Eng)",
+  "course_of_study": "Electrical and Electronic Engineering",
+  "year_of_graduation": "2018",
+  "hobbies": [
+    {
+      "0": "Viewing football matches",
+      "1": "Traveling",
+      "2": "Viewing Sci-Fi Movies"
+    }
+  ]
+}
